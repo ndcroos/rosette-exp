@@ -1,0 +1,4 @@
+#lang rosette/safe
+
+(define-symbolic b boolean?)
+(boolean? b)
